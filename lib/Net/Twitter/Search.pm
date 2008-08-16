@@ -6,7 +6,7 @@ use base qw/Net::Twitter/;
 use Array::Diff;
 use Data::Dumper;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 #http://search.twitter.com/search.json?q=<query>
 
 sub search {
@@ -28,7 +28,7 @@ sub search {
 
 =head1 NAME
 
-Net::Twitter::Diff - Twitter Diff
+Net::Twitter::Search- Twitter Search 
 
 =head1 SYNOPSYS
 
