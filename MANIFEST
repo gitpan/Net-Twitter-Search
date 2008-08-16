@@ -15,6 +15,5 @@ Makefile.PL
 MANIFEST
 MANIFEST.SKIP
 META.yml
-Net/Twitter/Search.pm
 README
 t/Net-Twitter-Search.t
